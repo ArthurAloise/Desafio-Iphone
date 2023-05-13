@@ -12,3 +12,5 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Repodutor Musicial: tocar, pausar, selecionarMusica
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+
+![DesafioIphone](./Screenshot_1.png)
